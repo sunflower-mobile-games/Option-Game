@@ -58,6 +58,9 @@ You can optionally add support for analytics by editing the `.env` and `app-prod
 + Questions? Go to [StackOverflow](https://stackoverflow.com/questions/tagged/actions-on-google), [Assistant Developer Community on Reddit](https://www.reddit.com/r/GoogleAssistantDev/) or [Support](https://developers.google.com/actions/support/).
 + Actions on Google [Documentation](https://developers.google.com/actions/extending-the-assistant)
 + Actions on Google [Codelabs](https://codelabs.developers.google.com/?cat=Assistant)
++ Medium Magnificent Escape [Announcement] (https://medium.com/google-developers/the-magnificent-escape-action-97b1bc03942e)
++ Medium Magnificent Escape [Update] ( https://medium.com/google-developers/magnificent-escape-action-update-67b10da9f660)
++ Medium Opensource [Article] (https://medium.com/google-developers/open-sourcing-the-magnificent-escape-action-6f9ec5612fd3)
 
 ## License
 See LICENSE.
